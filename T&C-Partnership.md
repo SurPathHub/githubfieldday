@@ -1,6 +1,6 @@
 # 🎨 T&C for GitHub Field Day Philippines - Community Partnership 
 
-Our Terms and Condtions is very simple and not really formal :)
+Our Terms and Conditions is very simple and not really formal :)
 
 **Do you want to use our logos and branding for your use?\
 Here we've written some guidelines for proper use of our logos.**
