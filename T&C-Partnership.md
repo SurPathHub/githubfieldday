@@ -1,4 +1,4 @@
-# 🎨 T&C for GitHub Field Day Philippines Community Partnership 
+# 🎨 T&C for GitHub Field Day Philippines - Community Partnership 
 
 Our Terms and Condtions is very simple and not really formal :)
 
