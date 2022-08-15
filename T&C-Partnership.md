@@ -16,11 +16,12 @@ Here we've written some guidelines for proper use of our logos.**
 | :heavy_check_mark: Create an [issue](https://github.com/SurPathHub/githubfieldday/issues) to suggest badges or other branding for GitHub Field Day Philippines 🚀 | :x: Sell any GitHub Field Day artwork.                                                                                             |
          
 ## 📜 Note        
-- As a community partner of GitHub Field Day Philippines, our team will not assure that everyone can have the spot to join the GitHub Field Day Philippines
+- As a community partner of GitHub Field Day Philippines, we can reserve 1 slot for the community representative 
+- Our team will not assure that everyone in your community can have the spot to join the GitHub Field Day Philippines
 - The participants are approved by the organizer based on their application form
 
 ## ☑️ Acknowledgement and Acceptance of Partnership Terms
 - As a condition of participants registration for the partnership, the applicant acknowledges to have read and fully understood the terms as set forth above. 
 - By acknowledging your acceptance of these partnership terms, you knowingly, voluntarily, and without duress, hereby agree to be bound and abide by the Terms and Condtions for the GitHub Field Day Philippines Partnership.
 
-[Apply for Partnership]()
+[Apply for Partnership](https://forms.gle/8Z6Ean9zvjwJL2ie7)
