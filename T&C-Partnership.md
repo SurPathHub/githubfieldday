@@ -19,6 +19,7 @@ Here we've written some guidelines for proper use of our logos.**
 - As a community partner of GitHub Field Day Philippines, we can reserve 1 slot for the community representative 
 - Our team will not assure that everyone in your community can have the spot to join the GitHub Field Day Philippines
 - The participants are approved by the organizer based on their application form
+- We will send an email confirmation for the approved partnership 
 
 ## ☑️ Acknowledgement and Acceptance of Partnership Terms
 - As a condition of participants registration for the partnership, the applicant acknowledges to have read and fully understood the terms as set forth above. 
